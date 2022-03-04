@@ -1,0 +1,11 @@
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/melissaastbury/Documents/Study/CSharp/FizzBuzz/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
